@@ -41,12 +41,12 @@ rever1333
 
 ### Student Management
 
-![Student](images/Student List.png)
+![Student](images/Student.png)
 
 ### Role Management
 
-![Role](images/Role Management.png)
+![Role](images/Role.png)
 
 ### Permission Management
 
-![Permission](images/permission management.png)
+![Permission](images/permission.png)
