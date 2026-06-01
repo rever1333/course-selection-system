@@ -32,3 +32,21 @@ Password: admin
 ## Author
 
 rever1333
+
+## Screenshots
+
+### Login Page
+
+![Login](images/login.png)
+
+### Student Management
+
+![Student](images/Student List.png)
+
+### Role Management
+
+![Role](images/Role Management.png)
+
+### Permission Management
+
+![Permission](images/permission management.png)
